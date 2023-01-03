@@ -5,6 +5,6 @@ For one of the stakeholders I regularly needed to update a report on new free tr
 ![dashboard example](https://user-images.githubusercontent.com/91870217/210390040-86ecef8a-ddeb-4866-b7ed-8971c8ff6c1f.JPG)
 
 
-To track all these changes in a Google Sheet Dashboard, I wrote a Python script which cleans the data from the database and creates a report for monthly cohorts. 
+To track all these changes in a Google Sheet Dashboard, I wrote a Python script which cleans the data from the database and creates a report for monthly cohorts, pushing it to Google Sheets via the API. 
 
 *Python packages used: pandas, datetime, time, gspread for communicating with Google Sheets API*
