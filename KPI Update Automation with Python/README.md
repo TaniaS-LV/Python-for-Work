@@ -7,4 +7,4 @@ For one of the stakeholders I regularly needed to update a report on new free tr
 
 To track all these changes in a Google Sheet Dashboard, I wrote a Python script which cleans the data from the database and creates a report for monthly cohorts, pushing it to Google Sheets via the API. 
 
-*Python packages used: pandas, datetime, time, gspread for communicating with Google Sheets API*
+*Python packages used: pandas, datetime, time, calendar, gspread for communicating with Google Sheets API*
